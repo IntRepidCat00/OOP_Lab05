@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Lab05",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab05::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab05-Debug-0c722912b31a39a51904.json",
+					"name" : "Lab05",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab05_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab05_autogen-Debug-b4e5c6aa89dff1e574cd.json",
+					"name" : "Lab05_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab05_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab05_autogen_timestamp_deps-Debug-6836f42faaea13b63dc0.json",
+					"name" : "Lab05_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Work/University/C1S2/OOP/Lab/Lab5/build-Lab05-Desktop_Qt_6_2_3_MinGW_64_bit-Debug",
+		"source" : "D:/Work/University/C1S2/OOP/Lab/Lab5/Lab05"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

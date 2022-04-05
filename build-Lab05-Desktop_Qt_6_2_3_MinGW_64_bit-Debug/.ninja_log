@@ -1,0 +1,15 @@
+# ninja log v5
+15	668	6708729499558156	Lab05_autogen/timestamp	10ef4b7cc45a6bb9
+15	668	6708729499558156	Lab05_autogen/mocs_compilation.cpp	10ef4b7cc45a6bb9
+15	668	6708729499558156	D:/Work/University/C1S2/OOP/Lab/Lab5/build-Lab05-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/Lab05_autogen/timestamp	10ef4b7cc45a6bb9
+673	2368	6708729517814214	CMakeFiles/Lab05.dir/main.cpp.obj	2ae239f09955a477
+15	668	6708729499558156	D:/Work/University/C1S2/OOP/Lab/Lab5/build-Lab05-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/Lab05_autogen/mocs_compilation.cpp	10ef4b7cc45a6bb9
+669	2263	6708729516744212	CMakeFiles/Lab05.dir/Lab05_autogen/mocs_compilation.cpp.obj	34e6c06d00cb74ac
+671	2609	6708729520213106	CMakeFiles/Lab05.dir/lab5_pnr.cpp.obj	4825106aa7a91ffc
+2609	2767	6708729521771129	Lab05.exe	89f06d82abcb3ae5
+8	173	6708731799419421	Lab05_autogen/timestamp	10ef4b7cc45a6bb9
+8	173	6708731799419421	Lab05_autogen/mocs_compilation.cpp	10ef4b7cc45a6bb9
+8	173	6708731799419421	D:/Work/University/C1S2/OOP/Lab/Lab5/build-Lab05-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/Lab05_autogen/timestamp	10ef4b7cc45a6bb9
+8	173	6708731799419421	D:/Work/University/C1S2/OOP/Lab/Lab5/build-Lab05-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/Lab05_autogen/mocs_compilation.cpp	10ef4b7cc45a6bb9
+181	1720	6708731814881605	CMakeFiles/Lab05.dir/lab5_pnr.cpp.obj	4825106aa7a91ffc
+1720	1886	6708731816523250	Lab05.exe	89f06d82abcb3ae5

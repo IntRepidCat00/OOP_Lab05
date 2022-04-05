@@ -1,0 +1,5 @@
+D:/Work/University/C1S2/OOP/Lab/Lab5/build-Lab05-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/CMakeFiles/Lab05.dir
+D:/Work/University/C1S2/OOP/Lab/Lab5/build-Lab05-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/Work/University/C1S2/OOP/Lab/Lab5/build-Lab05-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/Work/University/C1S2/OOP/Lab/Lab5/build-Lab05-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/CMakeFiles/Lab05_autogen_timestamp_deps.dir
+D:/Work/University/C1S2/OOP/Lab/Lab5/build-Lab05-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/CMakeFiles/Lab05_autogen.dir
